@@ -1,2 +1,2 @@
 # 3014
-Austin Bike ride sharing
+Data analysis project on Austin Bike ride sharing dataset as part of MS BAnDS bootcamp
